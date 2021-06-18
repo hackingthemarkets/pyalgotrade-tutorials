@@ -1,0 +1,4 @@
+yfinance
+pyalgotrade
+pandas
+matplotlib
