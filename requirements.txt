@@ -2,3 +2,4 @@ yfinance
 pyalgotrade
 pandas
 matplotlib
+pandas-market-calendars
